@@ -1,0 +1,1 @@
+kompozycja- kiedy mamy zawieranie obiektu jednej klasy do drugiej klasy, class A{} class B {A zmienna; A*ptr; A&ref;} /agregacja
